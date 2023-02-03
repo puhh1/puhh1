@@ -1,4 +1,3 @@
-![Artur's GitHub stats](https://github-readme-stats.vercel.app/api?username=puhh1&show_icons=true&theme=moltack)
 # 👋 Hi, I’m Artur Urdaev
 
 👀 I’m interested in web development
@@ -10,6 +9,8 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP)
+![MySql](https://img.shields.io/badge/-MySql-090909?style=for-the-badge&logo=MySql)
+![Phinx](https://img.shields.io/badge/-Phinx-090909?style=for-the-badge&logo=Phinx)
 
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/puhh1)
