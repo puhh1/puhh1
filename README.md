@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=puhh1)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=puhh1&show_icons=true&theme=moltack)
 # 👋 Hi, I’m Artur Urdaev
 
 👀 I’m interested in web development
