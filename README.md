@@ -1,16 +1,30 @@
-### Hi there 👋
+##👋 Hi, I’m Artur Urdaev
 
-<!--
-**pushkevich/pushkevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 I’m interested in web development
 
-Here are some ideas to get you started:
+🛠 I can:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📜 HTML5
+🎨 CSS / SCSS / Bootstrap / Bulma / styled-components etc.
+🔧 JavaScript
+🔧 PHP / Laravel
+🧩 Vue
+🗄 MongoDB / MySql / Phinx
+🔌 REST API
+🌱 Git / GitHub / Github Actions / CircleCI
+🛠 I want to be able to:
+
+🌱 GraphQL
+🌱 Effector.Js
+🌱 React
+🌱 React Native
+🌱 SSR
+How to reach me
+
+📫 sergeybulankin@gmail.com
+
+📫 telegram @bulankinsergey
+
+📫 instagram.com/bulankinsergey
+
+📫 vk.com/bulankin_sergey
