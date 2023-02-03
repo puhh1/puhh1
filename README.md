@@ -5,16 +5,24 @@
 🛠 I can:
 
 📜 HTML5
-🎨 CSS / SCSS / Bootstrap / Bulma / styled-components etc.
+
+🎨 CSS | SCSS | Bootstrap | Bulma | styled-components etc.
+
 🔧 JavaScript
-🔧 PHP / Laravel
+
+🔧 PHP | Laravel
+
 🧩 Vue
-🗄 MongoDB / MySql / Phinx
+
+🗄 MySql | Phinx
+
 🔌 REST API
-🌱 Git / GitHub / Github Actions / CircleCI
+
+🌱 Git | GitHub | Github Actions | CircleCI
+
 🛠 I want to be able to:
 
-🌱 GraphQL
+🌱 GraphQL 
 🌱 Effector.Js
 🌱 React
 🌱 React Native
