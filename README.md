@@ -1,8 +1,8 @@
-👋 Hi, I’m Artur Urdaev
+#👋 Hi, I’m Artur Urdaev
 
 👀 I’m interested in web development
 
-🛠 I can:
+##🛠 I can:
 
 📜 HTML5
 🎨 CSS | SCSS | Bootstrap | Bulma | styled-components etc.
@@ -11,7 +11,7 @@
 🗄 MySql | Phinx
 🌱 Git | GitHub
 
-How to reach me
+###How to reach me
 
 📫 artyryrdaev2@gmail.com
 
