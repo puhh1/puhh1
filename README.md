@@ -4,7 +4,7 @@
 
 ## 🛠 I can:
 
-![HTML5](/static/v1?label=HTML5=#c06606)
+![HTML5](/static/v1?label=<123>&message=<123>&color=<#c06606>)
 🎨 CSS | SCSS | Bootstrap | Bulma | styled-components etc.
 🔧 JavaScript
 🔧 PHP | Laravel
