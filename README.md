@@ -13,10 +13,8 @@
 
 How to reach me
 
-📫 sergeybulankin@gmail.com
+📫 artyryrdaev2@gmail.com
 
-📫 telegram @bulankinsergey
+📫 telegram @puhh1
 
-📫 instagram.com/bulankinsergey
-
-📫 vk.com/bulankin_sergey
+📫 vk.com/rainyard
