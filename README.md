@@ -5,28 +5,12 @@
 🛠 I can:
 
 📜 HTML5
-
 🎨 CSS | SCSS | Bootstrap | Bulma | styled-components etc.
-
 🔧 JavaScript
-
 🔧 PHP | Laravel
-
-🧩 Vue
-
 🗄 MySql | Phinx
+🌱 Git | GitHub
 
-🔌 REST API
-
-🌱 Git | GitHub | Github Actions | CircleCI
-
-🛠 I want to be able to:
-
-🌱 GraphQL 
-🌱 Effector.Js
-🌱 React
-🌱 React Native
-🌱 SSR
 How to reach me
 
 📫 sergeybulankin@gmail.com
