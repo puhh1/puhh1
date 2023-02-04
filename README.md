@@ -1,15 +1,15 @@
 ![puhh's GitHub stats](https://github-readme-stats.vercel.app/api?username=puhh1&show_icons=true&theme=dark)
 
 ### Languages and Tools:
-![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&theme=dark)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badgetheme=dark)
-![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=SCSS&theme=dark)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&theme=dark)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&theme=dark)
+![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge)
+![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=SCSS)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap)
+![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 
-![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP&theme=dark)
-![MySql](https://img.shields.io/badge/-MySql-090909?style=for-the-badge&logo=MySql&theme=dark)
-![Phinx](https://img.shields.io/badge/-Phinx-090909?style=for-the-badge&logo=Phinx&theme=dark)
+![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP)
+![MySql](https://img.shields.io/badge/-MySql-090909?style=for-the-badge&logo=MySql)
+![Phinx](https://img.shields.io/badge/-Phinx-090909?style=for-the-badge&logo=Phinx)
 
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/puhh1)
