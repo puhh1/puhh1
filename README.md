@@ -18,4 +18,4 @@
 
 [![lamoda](https://github-readme-stats.vercel.app/api/pin/?username=ToltekPlus&repo=lamoda&theme=dark)](https://github.com/puhh1/lamoda)
 [![lamoda](https://github-readme-stats.vercel.app/api/pin/?username=ToltekPlus&repo=steam&theme=dark)](https://github.com/puhh1/Steam)
-[![lamoda](https://github-readme-stats.vercel.app/api/pin/?username=ToltekPlus&repo=steam&theme=dark)](https://github.com/puhh1/boss_game)
+[![lamoda](https://github-readme-stats.vercel.app/api/pin/?username=ToltekPlus&repo=boss_game&theme=dark)](https://github.com/puhh1/boss_game)
