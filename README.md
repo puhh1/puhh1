@@ -17,5 +17,5 @@
 #
 
 [![lamoda](https://github-readme-stats.vercel.app/api/pin/?username=ToltekPlus&repo=lamoda&theme=dark)](https://github.com/puhh1/lamoda)
-[![lamoda](https://github-readme-stats.vercel.app/api/pin/?username=ToltekPlus&repo=ToltekPlus/steam&theme=dark)](https://github.com/puhh1/Steam)
+[![lamoda](https://github-readme-stats.vercel.app/api/pin/?username=puhh1&repo=steam&theme=dark)](https://github.com/puhh1/Steam)
 [![lamoda](https://github-readme-stats.vercel.app/api/pin/?username=ToltekPlus&repo=black_jack&theme=dark)](https://github.com/puhh1/black_jack)
