@@ -5,7 +5,11 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge)
 ![SCSS](https://img.shields.io/badge/-SCSS-090909?style=for-the-badge&logo=SCSS)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
+![Vue](https://img.shields.io/badge/-Vue-090909?style=for-the-badge&logo=Vue)
+![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
+![SSR](https://img.shields.io/badge/-SSR-090909?style=for-the-badge&logo=SSR)
 
 ![PHP](https://img.shields.io/badge/-PHP-090909?style=for-the-badge&logo=PHP)
 ![MySql](https://img.shields.io/badge/-MySql-090909?style=for-the-badge&logo=MySql)
